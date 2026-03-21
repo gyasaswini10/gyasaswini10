@@ -9,9 +9,6 @@ Currently learning Python, Java, Full Stack Development, and Machine Learning wh
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyasaswini10&show_icons=true&theme=default" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyasaswini10&layout=compact&theme=default" />
