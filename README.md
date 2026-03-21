@@ -17,6 +17,8 @@ Currently learning Python, Java, Full Stack Development, and Machine Learning wh
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyasaswini10&theme=default" />
 </p>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gyasaswini10&theme=merko&include_all_commits=true" height="180em" />
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
