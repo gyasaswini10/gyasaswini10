@@ -2,9 +2,8 @@ Hi, I am Gurivi Reddy Yasaswini, a Computer Science and Engineering student.
 
 Specialization: Cloud Native Software Engineering
 
-I am interested in programming, problem solving, and building practical applications.  
-Currently learning Python, Java, Full Stack Development, and Machine Learning while improving my skills through projects.
-
+I am passionate about software development, problem solving, and building scalable applications.  
+Currently, I am developing skills in Python, Java, Full Stack Development, and Machine Learning through hands-on projects.
 ---
 
 ## GitHub Statistics
@@ -135,6 +134,13 @@ Currently learning Python, Java, Full Stack Development, and Machine Learning wh
 - Microsoft Azure Fundamentals (AZ-900)
 
 
+## 📂 Featured Projects
+
+- 🔹 Full Stack Web Applications
+- 🔹 Machine Learning Model using Python  
+- 🔹 REST API Development (Django / Spring Boot)  
+- 🔹 Cloud Deployment – AWS (EC2, AWS RDS, Security Groups, Docker, Razorpay Integration)
+
 
 ## Contact
 
@@ -142,8 +148,10 @@ Currently learning Python, Java, Full Stack Development, and Machine Learning wh
 • Email: 2300030244csehte@gmail.com  
 • LinkedIn: https://www.linkedin.com/in/yasaswini2005  
 
----
+## 🚀 Professional Summary
 
-## Additional Information
+I am a motivated Computer Science and Engineering student specializing in Cloud Native Software Engineering. I am focused on building scalable and efficient applications using modern technologies.
 
-I am continuously learning and working on projects to strengthen my knowledge of software development and machine learning concepts.
+I continuously enhance my skills in full-stack development, cloud computing, and machine learning by working on practical projects and solving real-world problems.
+
+I am actively seeking opportunities to apply my knowledge, contribute to impactful projects, and grow as a software developer in a professional environment.
