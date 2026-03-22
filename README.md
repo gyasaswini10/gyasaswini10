@@ -1,10 +1,11 @@
 Hi, I am Gurivi Reddy Yasaswini, a Computer Science and Engineering student.
 
-Specialization: Cloud Native Software Engineering
-
+Specialization: Cloud Native Software Engineering 
 I am passionate about software development, problem solving, and building scalable applications.  
 Currently, I am developing skills in Python, Java, Full Stack Development, and Machine Learning through hands-on projects.
----
+
+
+
 
 ## GitHub Statistics
 
