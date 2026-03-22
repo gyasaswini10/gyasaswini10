@@ -21,47 +21,120 @@ Currently learning Python, Java, Full Stack Development, and Machine Learning wh
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ## 💻 Tech Stack & Tools  
 
 ### 🚀 Programming & Core
-![C](https://img.shields.io/badge/C-Language-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Development-yellow?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-black?style=for-the-badge)
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br><sub><b>C</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br><sub><b>Java</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub>
+</td>
+</tr>
+</table>
 
 ### 🎨 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-Styling-blueviolet?style=for-the-badge)
-![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge)
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub><b>HTML5</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub><b>CSS3</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br><sub><b>React</b></sub>
+</td>
+</tr>
+</table>
 
 ### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-API-grey?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-Java-brightgreen?style=for-the-badge)
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><sub><b>Node.js</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br><sub><b>Express.js</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="50"/><br><sub><b>Django</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="50"/><br><sub><b>Spring Boot</b></sub>
+</td>
+</tr>
+</table>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue?style=for-the-badge)
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub><b>MySQL</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><sub><b>PostgreSQL</b></sub>
+</td>
+</tr>
+</table>
 
-### ☁️ Cloud & Certifications
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue?style=for-the-badge)
+### ☁️ Cloud & DevOps
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=azure" width="50"/><br><sub><b>Azure</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br><sub><b>Kubernetes</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"/><br><sub><b>Jenkins</b></sub>
+</td>
+</tr>
+</table>
+
+### 🔧 Tools
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/><br><sub><b>GitHub Actions</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br><sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+
+
 
 🎓 **Certifications:**
 - AWS Certified Cloud Practitioner (CLF-C02)
 - Microsoft Azure Fundamentals (AZ-900)
 
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blue?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-Automation-red?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blueviolet?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge)
+
 
 ## Contact
 
