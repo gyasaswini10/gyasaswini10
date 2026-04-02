@@ -11,9 +11,9 @@ Currently, I am developing skills in Python, Java, Full Stack Development, and M
 ## GitHub Statistics
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyasaswini10&layout=compact&theme=default" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyasaswini10&theme=default" />
